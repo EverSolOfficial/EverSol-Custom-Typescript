@@ -11,3 +11,5 @@ Now, you have the chance to deploy your own contract at no upfront cost, utilizi
 -----
 
 This TypeScript script is designed to run on a Virtual Private Server (VPS) to automate the process of rewarding token holders and distributing those rewards accordingly.
+
+Note: Files and a Video Tutorial will be shared here on GitHub.
